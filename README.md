@@ -24,5 +24,25 @@ Este projeto tem como objetivo realizar uma análise financeira simples e eficie
 ## 📦 Instalação
 
 1. Clone o repositório:
-```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+#```bash git clone https://github.com/seu-usuario/nome-do-repositorio.git
+
+## 🏦 Aplicações
+Ideal para:
+
+- Empresas que desejam acompanhar sua saúde financeira.
+- Profissionais da área financeira que queiram automatizar análises.
+- Apresentações executivas.
+- Simulações rápidas para tomada de decisão.
+
+👨‍💻 Autor
+Feito por [Ana Cecilia].
+Entre em contato: cecisfer@gmail.com
+
+
+
+
+
+
+
+
+
